@@ -1,4 +1,3 @@
-
 //variable declaration
 // var tomatoPrice = 25;
 
@@ -21,7 +20,6 @@ console.log(price1); */
 // price1 += 10;
 // console.log(price1);
 
-
 // price2 = price2 -5;
 // shorthand -= means deducting some values from the current value for the var
 // price2 -= 5;
@@ -29,11 +27,8 @@ console.log(price1); */
 /* in the same way we can do substraction, multiplication, dividation:
 price1 -=5;price1 *= 10; price1 /=2; */
 
-
-var age =15;
+var age = 15;
 age = age + 1;
 // the same thing we can do in shorthand in following way
 age++;
-age--;  // ++ means adding 1 to the existing value; and --means you are deducting 1 from the existing value.
-
-
+age--; // ++ means adding 1 to the existing value; and --means you are deducting 1 from the existing value.
